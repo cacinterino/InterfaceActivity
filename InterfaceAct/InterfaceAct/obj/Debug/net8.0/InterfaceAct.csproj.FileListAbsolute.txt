@@ -1,0 +1,14 @@
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\bin\Debug\net8.0\InterfaceAct.exe
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\bin\Debug\net8.0\InterfaceAct.deps.json
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\bin\Debug\net8.0\InterfaceAct.runtimeconfig.json
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\bin\Debug\net8.0\InterfaceAct.dll
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\bin\Debug\net8.0\InterfaceAct.pdb
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\InterfaceAct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\InterfaceAct.AssemblyInfoInputs.cache
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\InterfaceAct.AssemblyInfo.cs
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\InterfaceAct.csproj.CoreCompileInputs.cache
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\InterfaceAct.dll
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\refint\InterfaceAct.dll
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\InterfaceAct.pdb
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\InterfaceAct.genruntimeconfig.cache
+C:\Users\Carl\source\repos\InterfaceAct\InterfaceAct\obj\Debug\net8.0\ref\InterfaceAct.dll
